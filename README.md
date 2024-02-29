@@ -1,1 +1,1 @@
-In this repo you can find a samll model DB of the Zen class portal.
+In this repo you can find a small model DB of the Zen class portal.
